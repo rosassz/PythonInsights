@@ -3,7 +3,7 @@
 
 ### Proposta Case - Cancelamento de Clientes
 
-Você foi contratado por uma empresa com mais de 800 mil clientes para um projeto de Dados. Recentemente a empresa percebeu que da sua base total de clientes, a maioria são clientes inativos, ou seja, que já cancelaram o serviço.
+Você foi contratado por uma empresa com mais de 50 mil clientes para um projeto de Dados. Recentemente a empresa percebeu que da sua base total de clientes, a maioria são clientes inativos, ou seja, que já cancelaram o serviço.
 
 Precisando melhorar seus resultados ela quer conseguir entender os principais motivos desses cancelamentos e quais as ações mais eficientes para reduzir esse número.
 
@@ -13,6 +13,6 @@ In english: PythonInsights - Analyzing Data with Python
 
 Case Proposal - Customer Cancellation
 
-You were hired by a company with more than 800 thousand customers for a Data project. Recently the company realized that of its total customer base, the majority are inactive customers, that is, those who have already canceled the service.
+You were hired by a company with more than 50 thousand customers for a Data project. Recently the company realized that of its total customer base, the majority are inactive customers, that is, those who have already canceled the service.
 
 Needing to improve its results, it wants to be able to understand the main reasons for these cancellations and what are the most efficient actions to reduce this number.
